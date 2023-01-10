@@ -1,3 +1,5 @@
 # youtube_clone
 
-https://patzez.github.io/youtube_clone/youtube.html
+Clone of YouTube's main page.
+
+[YouTube clone](https://patzez.github.io/youtube_clone/youtube.html)
